@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+env/
+alpr_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Dataset (optional if too large, better to keep locally or on drive)
+dataset/

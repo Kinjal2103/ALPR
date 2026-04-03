@@ -19,3 +19,6 @@ Thumbs.db
 
 # Dataset (optional if too large, better to keep locally or on drive)
 dataset/
+
+runs/
+inference_results/
